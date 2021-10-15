@@ -1,3 +1,6 @@
+```
+<?php 
+
 /**
  * Plugin Name: Mina Protocol for Wordpress
  * Plugin URI: https://github.com/ImStaked/Mina-Protocol-for-Wordpress
@@ -6,3 +9,5 @@
  * Author: ImStaked
  * Author URI: http://www.imstaked.com
  */
+ 
+```
